@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: dsfsdhjfhdsj-staging
+  labels:
+    environment-id: env_a9cb0eb0-0ff6-4084-9331-8d08b7f27b6d
+    project-id: project_1d4d50c4-da98-491c-a3a3-50138499d16b
+    project-name: DSFSDHJFHDSJ
+    environment-name: staging
+    organization-id: org_517371b9-de66-4f7d-b3d4-f638975eb5b5
